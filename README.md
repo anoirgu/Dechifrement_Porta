@@ -3,9 +3,14 @@
 Ce Code sert  à cryptanalyser le chiffre de PORTA , en Utilisant la méthode de recherche par mot probable.
 # Input  
 - l'utilisateur saisie leur message crypter et le mot probable qui peut  apparaitre dans le message clair
+
 # Output
+
 - le Cle et les message clair 
+
+
 # Idée Générale  
+
 - L'idée est d'utiliser la faille de sécurité  : l'image chifrée d'une  lettre qui appartient à la 1ere moitié de l'alphabet  , appartient  à la deuxième moitié de l'alphabet et vice versa 
 
 
